@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgimg">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="What do you want ?"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:layout_marginTop="70dp"
+        android:layout_marginStart="10dp"/>
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:src="@drawable/bloodimg"
+        android:layout_marginTop="150dp"
+        android:layout_marginStart="35dp"/>
+
+
+    <Button
+        android:id="@+id/donatebtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Donate"
+        android:textSize="15sp"
+        android:textColor="#FAF8F9"
+        android:layout_marginStart="126dp"
+        android:layout_marginTop="450dp"/>
+
+
+
+    <Button
+        android:id="@+id/acceptbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Accept"
+        android:textSize="15sp"
+        android:textColor="#FBF8F8"
+        android:layout_marginStart="126dp"
+        android:layout_marginTop="550dp"/>
+
+
+</RelativeLayout>

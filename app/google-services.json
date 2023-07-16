@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424324400136",
+    "project_id": "blood-and-organs-donation",
+    "storage_bucket": "blood-and-organs-donation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424324400136:android:f440d0acb1a9103a2e7dbd",
+        "android_client_info": {
+          "package_name": "com.example.bloodandorgansdonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424324400136-q703hp61975pm75j924ripkin7armk28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuJLCKJxHq5_3RzRqJ2Lwp_k9xo8_onqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424324400136-q703hp61975pm75j924ripkin7armk28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
